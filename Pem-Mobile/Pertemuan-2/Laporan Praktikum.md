@@ -33,4 +33,4 @@ Setelah menyelesaikan modul praktikum ini, mahasiswa diharapkan mampu:
     - diterminal "npx expo install react-dom react-native-web"
     - npx expo start --web
 
-    
+    <img src="hasil.jpeg" width=50%/>
