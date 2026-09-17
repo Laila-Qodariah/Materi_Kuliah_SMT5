@@ -21,12 +21,12 @@ Setelah menyelesaikan modul praktikum ini, mahasiswa diharapkan mampu:
 3. Memulai Project dengan Framework Expo 
     - Buka terminal pada code editor
     - Pastikan aktif di directory yang dituju 
-    - Ketikan (npx create-expo-app ptmn --template blank)
+    - Ketikan (npx create-expo-app ptmn2 --template blank)
     - Tunggu hingga proses intalasi selesai
     - Project selesai
 
 4. Menjalankan Project React Native
-    - Masuk ke directory projek (cd ptmn)
+    - Masuk ke directory projek (cd ptmn2)
     - Jalankan projek (npx expo start)
     - scan qr code dengan aplikasi Expo Go
     - Jika ingin run emulator di WEB ketik w 
